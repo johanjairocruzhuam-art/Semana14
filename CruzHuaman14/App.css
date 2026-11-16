@@ -51,11 +51,10 @@ main > section > div > article {
     border-radius: 12px;
     background: #fff;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 main > section > div > article:hover {
-    transform: translateY(-4px);
+
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.16);
 }
 
@@ -95,12 +94,10 @@ main > section > div > article a:hover {
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     font-family: Arial, sans-serif;
 }
 
 .card-destino:hover {
-    transform: translateY(-8px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }
 
@@ -143,14 +140,4 @@ main > section > div > article a:hover {
     margin-top: 15px;
     padding-top: 10px;
     border-top: 1px solid #ddd;
-}
-
-@media (max-width: 480px) {
-    header nav {
-        flex-wrap: wrap;
-    }
-
-    .card-destino {
-        width: 100%;
-    }
 }
