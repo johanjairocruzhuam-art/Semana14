@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Machu Picchu",
+    "ciudad": "Aguas Calientes",
+    "region": "Cusco",
+    "categoria": "Arqueológico",
+    "descripcion": "Antigua ciudadela inca ubicada en la cordillera de los Andes. Es uno de los destinos turísticos más representativos del Perú.",
+    "precioEntrada": 152,
+    "duracionVisita": "4 horas",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg/500px-Machu_Picchu%2C_Peru_%282018%29.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thum",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Chan Chan",
+    "ciudad": "Trujillo",
+    "region": "La Libertad",
+    "categoria": "Arqueológico",
+    "descripcion": "Antigua ciudad de adobe construida por la cultura Chimú. Destaca por sus murallas y decoraciones arquitectónicas.",
+    "precioEntrada": 10,
+    "duracionVisita": "2 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs-A7-h2U8qFpeueSciyjDfiXFoFU3mJNdp5DNZv_xh0kXVlDsZFTGNI&s=10",
+    "destacado": true
+  },
+  {
+    "id": 3,
+    "nombre": "Huacachina",
+    "ciudad": "Ica",
+    "region": "Ica",
+    "categoria": "Naturaleza",
+    "descripcion": "Oasis natural rodeado de grandes dunas de arena. Es conocido por sus actividades de aventura.",
+    "precioEntrada": 15,
+    "duracionVisita": "3 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRfPTw26gjtKffMO4KFXnXkeLrKdzKyDhIb6lDDQOrg&s=10",
+    "destacado": true
+  },
+  {
+    "id": 4,
+    "nombre": "Lago Titicaca",
+    "ciudad": "Puno",
+    "region": "Puno",
+    "categoria": "Naturaleza",
+    "descripcion": "Lago navegable de gran altitud que alberga las famosas islas flotantes de los Uros.",
+    "precioEntrada": 20,
+    "duracionVisita": "5 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4DvQ0_rFzTU85HyZHIeqkaQkrWVfblZs5Cey-WxlMg&s=10",
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Kuélap",
+    "ciudad": "Tingo",
+    "region": "Amazonas",
+    "categoria": "Arqueológico",
+    "descripcion": "Complejo arqueológico construido por la cultura Chachapoyas, conocido por sus grandes murallas de piedra.",
+    "precioEntrada": 30,
+    "duracionVisita": "4 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5hcfo8ABkietmPUj8eYToYfWMBav5ZNGhopV1Nx0FnFxnZMatJeNcxM&s=10",
+    "destacado": true
+  },
+  {
+    "id": 6,
+    "nombre": "Cañón del Colca",
+    "ciudad": "Chivay",
+    "region": "Arequipa",
+    "categoria": "Naturaleza",
+    "descripcion": "Impresionante formación geográfica conocida por sus profundos paisajes y el avistamiento de cóndores.",
+    "precioEntrada": 20,
+    "duracionVisita": "6 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCm2Ybw1ctN2NhPFUzwHX4_eCWoMs41z2-uu-onaSdES1gmwN3B5eqmTP&s=10",
+    "destacado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Caral",
+    "ciudad": "Supe",
+    "region": "Lima",
+    "categoria": "Arqueológico",
+    "descripcion": "Complejo arqueológico perteneciente a una de las civilizaciones más antiguas de América.",
+    "precioEntrada": 11,
+    "duracionVisita": "3 horas",
+    "imagen": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/63/3b/27/vista-aerea-con-un-dron.jpg?w=1200&h=1200&s=1",
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Parque Nacional Huascarán",
+    "ciudad": "Huaraz",
+    "region": "Áncash",
+    "categoria": "Naturaleza",
+    "descripcion": "Área natural protegida que alberga nevados, lagunas y una gran diversidad de flora y fauna.",
+    "precioEntrada": 30,
+    "duracionVisita": "5 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNEGwGEthAvLhMUbq1pArEc6JGW2n7pAC7MXiO9FaqC2IpBbZJTNC0T2u&s=10",
+    "destacado": true
+  },
+  {
+    "id": 9,
+    "nombre": "Líneas de Nazca",
+    "ciudad": "Nazca",
+    "region": "Ica",
+    "categoria": "Arqueológico",
+    "descripcion": "Enormes geoglifos trazados sobre el desierto que representan figuras de animales y formas geométricas.",
+    "precioEntrada": 47,
+    "duracionVisita": "2 horas",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_JbJMjvF_T-xRhcNiCKaYub52vWzHaVXA-tFW26_8VmbheULjGN7Vv8k&s=10",
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Playa Punta Sal",
+    "ciudad": "Tumbes",
+    "region": "Tumbes",
+    "categoria": "Playa",
+    "descripcion": "Destino de playa conocido por sus aguas cálidas y paisajes costeros.",
+    "precioEntrada": 0,
+    "duracionVisita": "Día completo",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklD0_ICZCyieWjaSeG5tNIt3WG5rhzo1fwbCxS7E0OA&s=10",
+    "destacado": true
+  }
+]
